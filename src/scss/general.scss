@@ -1,0 +1,17 @@
+:root {
+	font-size: 62.5%;
+	height: 100%;
+
+	--bg-00: #0A0A0A;
+	--fg-00: #FFFFFF;
+	--accent-00: #83169B;
+
+	font-family: Archivo, Arial, Helvetica, sans-serif;
+}
+
+body {
+	font-size: 1.6rem;
+	min-height: 100%;
+	background-color: var(--bg-00);
+	color: var(--fg-00);
+}
